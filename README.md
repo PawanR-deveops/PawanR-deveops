@@ -19,8 +19,8 @@ I'm currently diving deeper into [Any new tech or concept you're learning, e.g.,
 
 ### 📫 Let's Connect
 
-- **GitHub**: [[Your GitHub Profile Link](https://github.com/PawanR-deveops)]
-- **LinkedIn**: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/pawanravichandran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- **GitHub**: (https://github.com/PawanR-deveops)
+- **LinkedIn**:(https://www.linkedin.com/in/pawanravichandran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
 ### Thank you for visiting! 🚀
