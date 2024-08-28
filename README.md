@@ -6,7 +6,7 @@ I'm a passionate developer with a strong focus on **web application development*
 
 ### 🔧 Technologies & Tools
 
-- **Languages**: HTML, CSS, JavaScript, Python
+- **Languages**: HTML, CSS, JavaScript, java basics
 - **Tools**: Power BI, Git, VS Code
 
 ### 🌱 What I'm Learning
